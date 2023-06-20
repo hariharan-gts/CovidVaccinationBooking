@@ -1,7 +1,4 @@
 https://hariharan-gts.github.io/CovidVaccinationBooking/
-Admin:
-MailId:hari@gmail.com
-Password:1234546
 ![image](https://github.com/hariharan-gts/CovidVaccinationBooking/assets/80594101/da333f7b-68e6-48e6-8fd3-738c2ecb73d8)
 ![image](https://github.com/hariharan-gts/CovidVaccinationBooking/assets/80594101/633abf48-0c74-42d7-8343-49fafbdcac04)
 ![image](https://github.com/hariharan-gts/CovidVaccinationBooking/assets/80594101/57e4b7e4-b145-4082-80c9-4a656c379965)
